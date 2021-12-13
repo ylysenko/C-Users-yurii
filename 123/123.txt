@@ -1,0 +1,51 @@
+    1  GIT+V
+    2  GIT-V
+    3  copy NUL .gitconfig
+    4  git config--list
+    5  git config --list
+    6  mkdir step_repository/
+    7  git cln
+    8  cd./Desktop
+    9  cd ./Desctop/{{111}}
+   10  C:\Users\yurii\Desktop\111
+   11  C:\Users\yurii\Desktop\Step_repository
+   12  pwd
+   13  cd ./Desktop/
+   14  cd ./Desktop/Step_repository
+   15  cd ./Desktop/Step_repository/
+   16  cd ./Step_repository
+   17  pwd
+   18  git clone https://github.com/ylysenko/C-Users-yurii.git
+   19   git clone https://github.com/ylysenko/C-Users-yurii.git
+   20  git status
+   21  cd ./test/
+   22  cd ./Step_repository/
+   23  cd: ./Step_repository
+   24  cd .//c/Users/yurii/Desktop/Step_repository
+   25  cd ./Step_repository
+   26  git status
+   27  git status
+   28  .git status
+   29  touch 111.txt
+   30  git status
+   31* 
+   32  git status
+   33  git status
+   34  git add 111.txt
+   35  git status
+   36  git commit -m"helo world"
+   37  git push
+   38  mkdir New_Folder
+   39  git status
+   40  git add 111.txt
+   41  git add 111.txt
+   42  git add 111.pdf
+   43  git status
+   44  git commit -m"cheklist"
+   45  git push
+   46  pwd
+   47  mkdir 123
+   48  cd 123
+   49  pwd
+   50  history
+   51  history>>111.txt
