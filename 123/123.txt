@@ -33,6 +33,7 @@
    33  git status
    34  git add 111.txt
    35  git status
+   36  QWERTY
    36  git commit -m"helo world"
    37  git push
    38  mkdir New_Folder
