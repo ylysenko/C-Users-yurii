@@ -50,3 +50,4 @@
    49  pwd
    50  history
    51  history>>111.txt
+   52  QWERTY
