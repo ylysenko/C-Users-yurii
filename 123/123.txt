@@ -20,13 +20,6 @@
    40  git add 111.txt
    41  git add 111.txt
    42  git add 111.pdf
-   43  git status
-   44  git commit -m"cheklist"
-   45  git push
-   46  pwd
-   47  mkdir 123
-   48  cd 123
-   49  pwd
    50  history
    51  history>>111.txt
    52  QWERTY
